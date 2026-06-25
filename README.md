@@ -25,6 +25,7 @@ Power BI
 Matplotlib
 Google Colab
 Dashboard Pages
+
 📌 Overview Dashboard
 Total Revenue
 Total Orders
@@ -36,6 +37,7 @@ Monthly Revenue Trend
 Revenue by Category
 Customer Segment Analysis
 Order Status Distribution
+
 📌 Business Analysis
 Sales vs Profit Analysis
 Category Performance Summary
@@ -43,6 +45,7 @@ Profit Margin by Category
 Revenue by Payment Method
 Customer Type Analysis
 Top Selling Sub Categories
+
 📌 Insights & Recommendations
 Executive Insights
 Revenue exceeded ₹622M
